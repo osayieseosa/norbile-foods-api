@@ -1,5 +1,4 @@
 const allowedOrigins = [
-    'https://norbilefoods.vercel.app',
     'https://norbilefoods.vercel.app/'
 ]
 
