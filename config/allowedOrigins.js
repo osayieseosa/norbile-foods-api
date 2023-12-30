@@ -1,6 +1,5 @@
 const allowedOrigins = [
-    'http://localhost:3000',
-    'http://localhost:3500'
+    'https://Norbilefoods.vercel.app',
 ]
 
 module.exports = allowedOrigins
