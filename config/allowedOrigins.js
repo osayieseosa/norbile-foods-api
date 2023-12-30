@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://Norbilefoods.vercel.app',
+    'https://norbilefoods.vercel.app',
 ]
 
 module.exports = allowedOrigins
