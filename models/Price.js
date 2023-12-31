@@ -6,7 +6,7 @@ const pricesSchema = mongoose.Schema({
             oredo:{type:String, required: true},
             egor:{type:String, required: true},
             ovia:{type:String, required: true},
-            ikhpoba: {type: String, required: true}
+            ikpoba: {type: String, required: true}
         },
 })
 
